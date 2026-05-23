@@ -41,4 +41,4 @@ Lipika
 
 Status
 
-No more features and updates will be provided for this app. This app is madenonly for my learning purpose. You can use it without any problem. 
+No more features and updates will come for this app. This app is made only for my learning purpose. You can use it without any problem. 
