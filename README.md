@@ -41,4 +41,4 @@ Lipika
 
 Status
 
-Currently under development with more professional features coming soon.
+No more features and updates will be provided for this app. This app is madenonly for my learning purpose. You can use it without any problem. 
